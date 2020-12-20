@@ -1,7 +1,7 @@
 <h2 align="center">Hi there!! 👋</h2>
 
 <p align="center">
-    <img align="center"
+    <img width="500"
         src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in"
     />
 </p>
