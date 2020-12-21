@@ -20,7 +20,7 @@
 
 <p align="center">
     <img width="500"
-        src="https://github-readme-stats.dtan13.vercel.app/api?username=dtan13&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark"
+        src="https://github-readme-stats.dtan13.vercel.app/api?username=dtan13&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
         alt="Dhananjay's github stats"
     />
 </p>
