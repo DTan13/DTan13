@@ -1,12 +1,6 @@
 <h2 align="center">Hi there!! 👋</h2>
 
 <p align="center">
-    <img width="500"
-        src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in"
-    />
-</p>
-
-<p align="center">
   
 <img width="500" src="https://metrics.lecoq.io/dtan13?id=dtan13" alt="Dhananjay's Github Metrics">
   
