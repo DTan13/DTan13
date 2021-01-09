@@ -27,6 +27,21 @@
 </p>
 
 <p align="center">
+    <a href="https://www.linkedin.com/in/dtan13/">
+        <img src='img/linkedin.svg' alt='linkedin' height='40'>
+    </a>
+    <a href="https://twitter.com/_dtan13_">
+        <img src='img/twitter.svg' alt='twitter' height='40'>
+    </a>
+    <a href="https://telegram.me/dtan13">
+        <img src='img/telegram.svg' alt='telegram' height='40'>
+    </a>
+    <a href="https://discordapp.com/users/726159756921667716">
+        <img src='img/discord.svg' alt='discord' height='40'>
+    </a>
+</p>
+
+<p align="center">
     <img 
     src="https://visitor-badge.glitch.me/badge?page_id=dtan13.dtan13" alt="visitor badge" />
 </p>
