@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/dtan13/">
         <img src='img/linkedin.svg' alt='linkedin' height='40'>
     </a>
-    <a href="https://twitter.com/_dtan13_">
+    <a href="https://twitter.com/DTan13dottech">
         <img src='img/twitter.svg' alt='twitter' height='40'>
     </a>
     <a href="https://telegram.me/dtan13">
